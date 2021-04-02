@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zohoorparvaz
+- 👋 Hi, I’m Alireza @ZohoorParvaz
 - 👀 I’m interested in learning new things, and photography :)
 - 🌱 I’m currently learning FSD
 - 💞️ I’m looking to collaborate on everything you thing I might be able to help.
