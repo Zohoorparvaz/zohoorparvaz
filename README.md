@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Languages & Frameworks & Tools & Abilities
 
-![HTML5](https://img.shields.io/badge/Html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=yellow&color=222)
+![HTML5](https://img.shields.io/badge/Html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=orange&color=222)
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=yellow&color=222)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?&style=flat-square&logo=javascript&logoColor=yellow&color=222)
 ![React](https://img.shields.io/badge/React-E34F26.svg?&style=flat-square&logo=react&logoColor=yellow&color=222)
