@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <p><b>:gear: &nbsp;GitHub Statistics</b></p>
   <br/>
 <p align="center">
- <img height="197px" src="[![GitHub Streak](https://streak-stats.demolab.com?user=zohoorparvaz&border_radius=3.5)](https://git.io/streak-stats)" />
+ <img height="197px" src="[![GitHub Streak](https://streak-stats.demolab.com?user=zohoorparvaz&hide_border=true&border_radius=3.5&mode=weekly)](https://git.io/streak-stats)" />
 </p>
 
 </div>
