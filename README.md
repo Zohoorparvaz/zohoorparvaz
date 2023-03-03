@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Climate+Crisis&pause=1000&width=435&lines=Hello+from+the+other+side!;I+am+Alireza;I+am+a+software+developer;I+am+passionate+about+learning)](https://git.io/typing-svg)       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=4000&center=true&vCenter=true&width=416&lines=Welcome+to+my+Github+profile.;html%2C+css+%2Cjavascript%2C+react%2C+redux%2C+vue%2C+M365,...)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Climate+Crisis&pause=1000&width=435&lines=Hello+from+the+other+side!;I+am+Alireza+ZohoorParvaz;I+am+a+software+developer;I+am+passionate+about+learning)](https://git.io/typing-svg)
+       
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=4000&center=true&vCenter=true&width=416&lines=Welcome+to+my+Github+profile.;html%2C+css+%2Cjavascript%2C+react%2C+redux+....)](https://git.io/typing-svg)       
        
 ### &nbsp;< About Me / >
 
@@ -25,8 +26,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;🤞 I enjoy growing and learning new things.
 
  <p align="center">
-  < href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Climate+Crisis&pause=1000&width=435&lines=Hello+from+the+other+side!;I+am+Alireza+ZohoorParvaz;I+am+a+software+developer;I+am+passionate+about+learning" alt="Typing SVG" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/zohoorparvaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=3800&center=true&vCenter=true&width=416&lines=Hi+There%2C+My+name+is+ERFAN.;I'm+a+front-end+developer)](https://git.io/typing-svg)
+       
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=4000&center=true&vCenter=true&width=416&lines=Welcome+to+my+Github+profile.;html%2C+css+%2Cjavascript%2C+react%2C+redux+....)](https://git.io/typing-svg) 
 </p>
 <hr>
 
