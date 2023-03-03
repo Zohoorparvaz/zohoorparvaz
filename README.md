@@ -44,7 +44,12 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?&style=flat-square&logo=github&logoColor=white&color=222)
 ![VSCode](https://img.shields.io/badge/VsCode-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=blue&color=222)
 ![Postman](https://img.shields.io/badge/postman-%231572B6.svg?&style=flat-square&logo=postman&logoColor=orange&color=222)
-<br>
+![Postman](https://img.shields.io/badge/postman-%231572B6.svg?&style=flat-square&logo=postman&logoColor=orange&color=222)
+
+<hr>
+### Languages & Frameworks & Tools & Abilities
+
+![Postman](https://img.shields.io/badge/postman-%231572B6.svg?&style=flat-square&logo=postman&logoColor=orange&color=222)
 
 <hr>
 
