@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VsCode-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=blue&color=222)
 ![Postman](https://img.shields.io/badge/postman-%231572B6.svg?&style=flat-square&logo=postman&logoColor=orange&color=222)
 ![Insomnia](https://img.shields.io/badge/insomnia-%231572B6.svg?&style=flat-square&logo=insomnia&logoColor=blue&color=222)
+![PowerApps](https://img.shields.io/badge/PowerApps-%231572B6.svg?&style=flat-square&logo=powerapps&logoColor=purple&color=222)
+![Power%20Automate](https://img.shields.io/badge/power%20automate-%231572B6.svg?&style=flat-square&logo=power%20automate&logoColor=blue&color=222)
+![Power%20BI](https://img.shields.io/badge/power%20BI-%231572B6.svg?&style=flat-square&logo=power%20BI&logoColor=yellow&color=222)
 
 <hr>
 
