@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2019 and working from home.\
 &nbsp;&nbsp;&nbsp;🤞 I enjoy growing and learning new things.
 
- <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=3800&center=true&vCenter=true&width=416&lines=Hi+There%2C+My+name+is+ERFAN.;I'm+a+front-end+developer)](https://git.io/typing-svg)
-       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=4000&center=true&vCenter=true&width=416&lines=Welcome+to+my+Github+profile.;html%2C+css+%2Cjavascript%2C+react%2C+redux+....)](https://git.io/typing-svg) 
-</p>
 <hr>
 
 ### Languages & Frameworks & Tools & Abilities
