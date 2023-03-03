@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-E34F26.svg?&style=flat-square&logo=react&logoColor=blue&color=222)
 ![Redux](https://img.shields.io/badge/Redux-02569B.svg?&style=flat-square&logo=redux&logoColor=purple&color=222)
 ![vue.js](https://img.shields.io/badge/Vue-E34F26.svg?&style=flat-square&logo=Vue.js&logoColor=Green&color=222)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-E34F26.svg?&style=flat-square&logo=bootstrap&logoColor=blue&violet=222)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-E34F26.svg?&style=flat-square&logo=bootstrap&logoColor=blue&color=222)
 ![Sass](https://img.shields.io/badge/Sass-02569B.svg?&style=flat-square&logo=sass&logoColor=pink&color=222)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat-square&logo=git&logoColor=orange&color=222)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?&style=flat-square&logo=github&logoColor=white&color=222)
