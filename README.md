@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=3800&center=true&vCenter=true&width=416&lines=Hi+There%2C+My+name+is+ERFAN.;I'm+a+front-end+developer)](https://git.io/typing-svg)
-       
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Climate+Crisis&pause=1000&width=435&lines=Hello+from+the+other+side!;I+am+Alireza;I+am+a+software+developer;I+am+passionate+about+learning)](https://git.io/typing-svg)       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239B8484&size=22&duration=4000&center=true&vCenter=true&width=416&lines=Welcome+to+my+Github+profile.;html%2C+css+%2Cjavascript%2C+react%2C+redux+....)](https://git.io/typing-svg)        -->
        
 ### &nbsp;< About Me / >
