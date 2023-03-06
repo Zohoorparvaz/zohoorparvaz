@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Languages & Frameworks & Tools & Abilities
+### Languages, Frameworks, Tools, and Libraries
 
 ![HTML5](https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=orange&color=222)
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=blue&color=222)
