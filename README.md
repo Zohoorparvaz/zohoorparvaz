@@ -21,9 +21,9 @@ Here are some ideas to get you started:
        
 ### &nbsp;< About Me / >
 
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2019 and working from home.\
-&nbsp;&nbsp;&nbsp;🤞 I enjoy growing and learning new things.
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about coding and problem solving.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 and working from home now.\
+&nbsp;&nbsp;&nbsp;🤞 Self learner and enjoy discovering new fields & experiences.
 
 <hr>
 
