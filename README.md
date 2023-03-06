@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 ![PowerApps](https://img.shields.io/badge/PowerApps-%231572B6.svg?&style=for-the-badge&logo=powerapps&logoColor=purple&color=222)
 ![Power%20Automate](https://img.shields.io/badge/power%20automate-%231572B6.svg?&style=for-the-badge&logo=power%20automate&logoColor=blue&color=222)
 ![Power%20BI](https://img.shields.io/badge/power%20BI-%231572B6.svg?&style=for-the-badge&logo=power%20BI&logoColor=yellow&color=222)
+![Atlassian%20Suite](https://img.shields.io/badge/Atlassian%20Suite-E34F26.svg?&style=for-the-badge&logo=atlassian&logoColor=blue&color=222)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-E34F26.svg?&style=for-the-badge&logo=Bitbucket&logoColor=blue&color=222)
+![Trello](https://img.shields.io/badge/Trello-E34F26.svg?&style=for-the-badge&logo=trello&logoColor=blue&color=222)
+![Jira](https://img.shields.io/badge/Jira-E34F26.svg?&style=for-the-badge&logo=Jira&logoColor=blue&color=222)
+![Confluence](https://img.shields.io/badge/Confluence-E34F26.svg?&style=for-the-badge&logo=confluence&logoColor=blue&color=222)
 
 <hr>
 
