@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ![Trello](https://img.shields.io/badge/Trello-E34F26.svg?&style=for-the-badge&logo=trello&logoColor=blue&color=222)
 ![Jira](https://img.shields.io/badge/Jira-E34F26.svg?&style=for-the-badge&logo=Jira&logoColor=blue&color=222)
 ![Confluence](https://img.shields.io/badge/Confluence-E34F26.svg?&style=for-the-badge&logo=confluence&logoColor=blue&color=222)
+![C#](https://img.shields.io/badge/c%23-E34F26.svg?&style=for-the-badge&logo=csharp&logoColor=green&color=222)
 
 <hr>
 
